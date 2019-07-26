@@ -36,7 +36,7 @@ fn indent(size: usize) -> String {
 }
 
 fn main() {
-    let file = File::open("/home/vcarceler/desarrollo/fet2ods/data/teachers.xml").unwrap();
+    let file = File::open("data/teachers.xml").unwrap();
     let file = BufReader::new(file);
 
     let parser = EventReader::new(file);
