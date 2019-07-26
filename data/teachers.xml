@@ -1,0 +1,4980 @@
+Ariana Dumbledore﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="101 Fleur Delacour">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP06ASIX Administració de SO (MP06) +  Sistemes informàtics UF4"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP06ASIX Administració de SO (MP06) +  Sistemes informàtics UF4"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP07ASIX Planificació i adm xarxes (MP07)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP07ASIX Planificació i adm xarxes (MP07)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP07ASIX Planificació i adm xarxes (MP07)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP14ASIX Projecte ASIX (MP14)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP14ASIX Projecte ASIX (MP14)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP11ASIX Seguretat i alta disponibilitat (MP11)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP06ASIX Administració de SO (MP06) +  Sistemes informàtics UF4"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP06ASIX Administració de SO (MP06) +  Sistemes informàtics UF4"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP14ASIX Projecte ASIX (MP14)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP06ASIX Administració de SO (MP06) +  Sistemes informàtics UF4"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP07ASIX Planificació i adm xarxes (MP07)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP07ASIX Planificació i adm xarxes (MP07)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP11ASIX Seguretat i alta disponibilitat (MP11)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP11ASIX Seguretat i alta disponibilitat (MP11)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="102 Gabrielle Delacour">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="103 Dilys Derwent">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="104 Dedalus Diggle">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="Tut1ASIX"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="105 Amos Diggory">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="106 Cedric Diggory">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP05ASIX Fonaments de maquinari (MP05)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP05ASIX Fonaments de maquinari (MP05)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP05ASIX Fonaments de maquinari (MP05)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="107 Elphias Doge">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP09DAM Programació de serveis i processos (MP09)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03DAM2 Programació (MP03)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="Tut2DAM"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP09DAM Programació de serveis i processos (MP09)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP09DAM Programació de serveis i processos (MP09)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP09DAM Programació de serveis i processos (MP09)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP09DAM Programació de serveis i processos (MP09)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP09DAM Programació de serveis i processos (MP09)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="Tut2DAM"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="108 Antonin Dolohov">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP13DAM Projecte DAM (MP13)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP08DAM Programació multimèdia i disp. mòbils (MP08)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP08DAM Programació multimèdia i disp. mòbils (MP08)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP08DAM Programació multimèdia i disp. mòbils (MP08)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP08DAM Programació multimèdia i disp. mòbils (MP08)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP13DAM Projecte DAM (MP13)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP13DAM Projecte DAM (MP13)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP08DAM Programació multimèdia i disp. mòbils (MP08)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP08DAM Programació multimèdia i disp. mòbils (MP08)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="109 Aberforth Dumbledore">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP05SMX Xarxes locals (MP05)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="110 Albus Dombledore">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="Tut1SMX"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP01SMX Muntatge i manteniment d&apos;equips (MP01)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP01DAM Sistemes informàtics (MP01)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="111 Ariana Dumbledore">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP06SMX Seguretat informàtica (MP06)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="Tut2SMX"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP02DAM Bases de dades UF1,2,3 (MP02)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="112 Kendra Dumbledore">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP13DAM Projecte DAM (MP13)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP13DAM Projecte DAM (MP13)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP13DAM Projecte DAM (MP13)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP07DAM Desenvolupament d&apos;interfícies (MP07)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP07DAM Desenvolupament d&apos;interfícies (MP07)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="Tut2ASIX"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP07DAM Desenvolupament d&apos;interfícies (MP07)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP07DAM Desenvolupament d&apos;interfícies (MP07)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP09ASIX Implantació d&apos;aplicacions web (MP09)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP09ASIX Implantació d&apos;aplicacions web (MP09)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP07DAM Desenvolupament d&apos;interfícies (MP07)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP07DAM Desenvolupament d&apos;interfícies (MP07)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP07SMX Serveis de xarxa (MP07)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="113 Percival Dumbledore">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP02SMX Sistemes operatius monolloc (MP02)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="Tut1SMX"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP03SMX Aplicacions ofimàtiques (MP03)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="Tut1SMX"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="114 Dudley Dursley">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP08ASIX Serveis de xarxa i Internet (MP08)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP08ASIX Serveis de xarxa i Internet (MP08)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP08ASIX Serveis de xarxa i Internet (MP08)"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP06DAM Accés a dades (MP06) + Bases de dades UF4"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="115 Marjorie Dursley">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP03DAM Programació bàsica (MP03)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP08SMX Aplicacions web (MP08)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="116 Petunia Dursley">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP12DAM Empresa i iniciativa emprenedora GS (MP12)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP12DAM Empresa i iniciativa emprenedora GS (MP12)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP11DAM Formació i orientació laboral GS (MP11)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP10SMX Empresa i iniciativa emprenedora GM (MP10)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP11DAM Formació i orientació laboral GS (MP11)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP10SMX Empresa i iniciativa emprenedora GM (MP10)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP11DAM Formació i orientació laboral GS (MP11)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP09SMX Formació i orientació laboral GM (MP09)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="117 Vernon Dursley">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP10SMX Empresa i iniciativa emprenedora GM (MP10)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP10SMX Empresa i iniciativa emprenedora GM (MP10)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+     <Subject name="Tut2SMX"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP10SMX Empresa i iniciativa emprenedora GM (MP10)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+     <Subject name="Tut2SMX"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+     <Subject name="MP10SMX Empresa i iniciativa emprenedora GM (MP10)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="83 10:15">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXA 2SMXA"></Students>
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP12SMX Crèdit de síntesi (MP12)"></Subject><Students name="2SMXC 2SMXC"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+     <Subject name="MP04SMX Sistemes operatius en xarxa (MP04)"></Subject><Students name="2SMXB 2SMXB"></Students>
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="118 Armando Dippet">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP05DAM Entorns de desenvolupament (MP05)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP05DAM Entorns de desenvolupament (MP05)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP04DAM Llenguatges de marques i sist. gestió d&apos;informació (MP04)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP0210ASIX Gestió BBDD (MP02Asix) UF3 + Adm BBDD (MP10 Asix) UF2"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP0210ASIX Gestió BBDD (MP02Asix) UF3 + Adm BBDD (MP10 Asix) UF2"></Subject><Students name="2ASIX 2ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP04DAM Llenguatges de marques i sist. gestió d&apos;informació (MP04)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP10DAM Sistemes de gestió empresarial (MP10)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP10DAM Sistemes de gestió empresarial (MP10)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP10DAM Sistemes de gestió empresarial (MP10)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP10DAM Sistemes de gestió empresarial (MP10)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP04DAM Llenguatges de marques i sist. gestió d&apos;informació (MP04)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP04DAM Llenguatges de marques i sist. gestió d&apos;informació (MP04)"></Subject><Students name="1ASIX 1ASIX"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="Tut1DAM"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP10DAM Sistemes de gestió empresarial (MP10)"></Subject><Students name="2DAMB 2DAMB"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+     <Subject name="MP05DAM Entorns de desenvolupament (MP05)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="95 20:05">
+     <Subject name="MP05DAM Entorns de desenvolupament (MP05)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+     <Subject name="MP10DAM Sistemes de gestió empresarial (MP10)"></Subject><Students name="2DAMA 2DAMA"></Students>
+    </Hour>
+    <Hour name="90 16:00">
+     <Subject name="MP04DAM Llenguatges de marques i sist. gestió d&apos;informació (MP04)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP04DAM Llenguatges de marques i sist. gestió d&apos;informació (MP04)"></Subject><Students name="1DAM 1DAM"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="20 Antonia Macias">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXA 1SMXA"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="21 Merche Muñoz">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXB 1SMXB"></Students>
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="23 Diego Giménez">
+   <Day name="1 Dilluns">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="2 Dimarts">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="3 Dimecres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="4 Dijous">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+     <Subject name="MP11SMX Anglès (MP11)"></Subject><Students name="1SMXC 1SMXC"></Students>
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+   <Day name="5 Divendres">
+    <Hour name="81 08:15">
+
+    </Hour>
+    <Hour name="82 09:15">
+
+    </Hour>
+    <Hour name="83 10:15">
+
+    </Hour>
+    <Hour name="84 11:15">
+
+    </Hour>
+    <Hour name="85 11:40">
+
+    </Hour>
+    <Hour name="86 12:40">
+
+    </Hour>
+    <Hour name="87 13:40">
+
+    </Hour>
+    <Hour name="88 14:40">
+
+    </Hour>
+    <Hour name="89 15:00">
+
+    </Hour>
+    <Hour name="90 16:00">
+
+    </Hour>
+    <Hour name="91 17:00">
+
+    </Hour>
+    <Hour name="92 17:55">
+
+    </Hour>
+    <Hour name="93 18:15">
+
+    </Hour>
+    <Hour name="94 19:10">
+
+    </Hour>
+    <Hour name="95 20:05">
+
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
