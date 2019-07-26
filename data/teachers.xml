@@ -1,4 +1,4 @@
-Ariana Dumbledore﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Teachers_Timetable>
   <Teacher name="101 Fleur Delacour">
    <Day name="1 Dilluns">
@@ -4266,7 +4266,7 @@ Ariana Dumbledore﻿<?xml version="1.0" encoding="UTF-8"?>
     </Hour>
    </Day>
   </Teacher>
-  <Teacher name="20 Antonia Macias">
+  <Teacher name="20 Marietta Edgecombe">
    <Day name="1 Dilluns">
     <Hour name="81 08:15">
 
@@ -4503,7 +4503,7 @@ Ariana Dumbledore﻿<?xml version="1.0" encoding="UTF-8"?>
     </Hour>
    </Day>
   </Teacher>
-  <Teacher name="21 Merche Muñoz">
+  <Teacher name="21 Arabella Figg">
    <Day name="1 Dilluns">
     <Hour name="81 08:15">
 
@@ -4740,7 +4740,7 @@ Ariana Dumbledore﻿<?xml version="1.0" encoding="UTF-8"?>
     </Hour>
    </Day>
   </Teacher>
-  <Teacher name="23 Diego Giménez">
+  <Teacher name="23 Argus Filch">
    <Day name="1 Dilluns">
     <Hour name="81 08:15">
 
